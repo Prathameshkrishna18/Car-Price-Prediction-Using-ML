@@ -1,0 +1,6 @@
+pandas
+numpy
+LinearRegression
+train_test_split
+pickle
+streamlit
